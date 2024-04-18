@@ -1,0 +1,11 @@
+pip
+nltk
+matplotlib
+scipy==1.12.0
+pandas
+numpy
+wordcloud
+scikit-learn
+seaborn
+gensim
+metaflow
